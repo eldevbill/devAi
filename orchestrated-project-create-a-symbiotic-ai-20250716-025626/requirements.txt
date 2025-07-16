@@ -1,0 +1,3 @@
+smol-developer
+aider-chat
+shell-gpt
