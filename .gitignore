@@ -12,3 +12,6 @@ __pycache__/
 # Memory
 /memory/*
 !/memory/.gitkeep
+
+# Orchestrated Projects
+orchestrated-project-*/
